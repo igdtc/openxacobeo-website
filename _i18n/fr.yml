@@ -1,0 +1,43 @@
+header:
+  title: II Open Xacobeo
+  introtext: Disc Golf Open du 15 au 17 avril 2022 — Saint Jacques de Compostelle, Espagne
+navigation:
+  about: À propos
+  competition: Compétition
+  course: Cours
+  register: S'inscrire
+  contact: Contacter
+about:
+  title: À propos de II Open Xacobeo
+  p1: Le deuxième Xacobeo Disc Golf Open se tiendra pendant la Semaine Sainte 2022, entre le <strong>15 et le 17 avril</strong>, à <strong>Santiago de Compostela</strong>, une ville monumentale de Galice dont la vieille ville est un site du patrimoine mondial et attire des visiteurs et des pèlerins du monde entier.
+  p2: Bien que la forme d'accès la plus populaire soit à pied, la ville dispose d'un bon accès routier et d'un aéroport à 14 km du centre et à seulement 7 km de Monte Do Gozo, où se trouve le parcours de disc golf.
+  p3: Nous espérons que cette deuxième édition sera aussi réussie que la précédente et sommes convaincus que les modifications apportées à la conception du parcours la rendront encore plus difficile.
+competition:
+  title: Détails du concours
+  p1: Le tournoi est <a href="https://www.pdga.com/tour/event/55235">sanctionné par le PDGA</a> et se réunira <a href="https://www.pdga .com/rules"Règles et normes des événements de <strong>niveau B</strong></a>.
+  p2: Toutes les <a href="https://coronavirus.sergas.gal/Contidos/Documents/525/Normativa_covid19_consolidada.pdf">indications, réglementations et restrictions</a> qui s'appliquent à ce type d'événements, émises par le Xunta de Galicia en relation avec le COVID-19, sera fidèlement suivie.
+  st1: Format du tournoi
+  sp1: Trois rondes de 18 trous seront jouées. Les groupes partiront du trou 1 à intervalles réguliers à des heures préalablement programmées. En cas d'égalité pour la première place, la mort subite sera jouée pour départager le vainqueur de chaque catégorie.
+  st2: prix et trophées
+  sp2: Des prix en espèces seront attribués dans toutes les catégories PRO. Des trophées et autres lots seront remis aux vainqueurs des catégories AM et autres concours (doubles, CTPS, etc.).
+course:
+  title: Parcours de championnat
+  download: Télécharger le livre Caddie
+  videos: Regarder des survols vidéo
+register:
+  title: S'inscrire
+  p1: L'inscription et le paiement des frais doivent être effectués sur <a target="_blank" href="https://www.discgolfscene.com/tournaments/II_Open_Xacobeo_2022/register">DiscGolfScene</a>.
+  st1: Conditions d'inscription
+  sp1: En tant que tournoi de niveau B, il est obligatoire d'être membre en règle de PDGA.
+  st2: Frais d'inscription
+  st3: Nombre maximum de participants
+  sp3: 120 participants maximum. L'organisation réserve 12 jokers. Une fois les 108 inscriptions atteintes, une liste d'attente sera créée avec les candidatures suivantes.
+contact:
+  title: Contacter
+  p1: Pour contacter l'organisation du tournoi, veuillez envoyer un e-mail à <a href="mailto:td@openxacobeo.com">td@openxacobeo.com</a> ou utiliser le formulaire suivant.
+  name: votre nom
+  email: E-mail
+  message: Message
+  submit: Envoyer
+  thanks: Merci de nous avoir contactés ! Nous reviendrons vers vous dès que possible.
+  goback: Revenir au site principal

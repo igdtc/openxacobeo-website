@@ -1,6 +1,6 @@
 header:
   title: II Open Xacobeo
-  introtext: Disc Golf Open on April 15-17, 2022 — Santiago de Compostela, Spain
+  introtext: Open de Disc Golf entre el 15 y el 17 de abril de 2022 — Santiago de Compostela, Spain
 navigation:
   about: Info
   competition: Competición
@@ -10,34 +10,34 @@ navigation:
 about:
   title: Sobre el II Open Xacobeo
   p1: El II Open Xacobeo Disc Golf se celebrará durante la Semana Santa de 2022, entre el <strong>15 y el 17 de abril</strong>, en <strong>Santiago de Compostela</strong>, ciudad monumental de Galicia cuyo casco antiguo es Patrimonio de la Humanidad y atrae a visitantes y peregrinos de todo el mundo.
-  p2: Aunque la forma de acceso más popular es a pie, la ciudad cuenta con buenos accesos por carretera y un aeropuerto a 14 km del centro ya solo 7 km de Monte Do Gozo, donde se encuentra el campo de disc golf.
-  p3: Esperamos que esta segunda edición sea tan exitosa como la anterior, y confiamos en que los cambios en el diseño del campo lo harán aún más desafiante.
+  p2: Aunque la forma de acceso más popular es a pie, la ciudad cuenta con buenos accesos por carretera y un aeropuerto a 14 km del centro y a solo 7 km del Monte Do Gozo, donde se encuentra el campo de disc golf.
+  p3: Esperamos que esta segunda edición sea tan exitosa como la anterior, y confiamos en que los cambios en el diseño del campo lo hagan aún más desafiante.
 competition:
   title: Detalles de la competición
-  p1: El torneo está <a href="https://www.pdga.com/tour/event/55235">sancionado por la PDGA</a> y se enfrentará a <a href="https://www.pdga .com/rules"><strong>Reglas y estándares de eventos de nivel B</strong></a>.
-  p2: Todas las <a href="https://coronavirus.sergas.gal/Contidos/Documents/525/Normativa_covid19_consolidada.pdf">indicaciones, reglamentos y restricciones</a> que aplican a este tipo de eventos, emitidas por la Xunta de Galicia en relación con el COVID-19, se seguirá fielmente.
-  st1: formato de torneo
+  p1: El torneo está <a href="https://www.pdga.com/tour/event/55235">sancionado por la PDGA</a> y se regirá por las <a href="https://www.pdga .com/rules"><strong>Reglas y estándares de eventos de nivel B</strong></a>.
+  p2: Todas las <a href="https://coronavirus.sergas.gal/Contidos/Documents/525/Normativa_covid19_consolidada.pdf">indicaciones, reglamentos y restricciones</a> que aplican a este tipo de eventos, emitidas por la Xunta de Galicia en relación con el COVID-19, se seguirán fielmente.
+  st1: Formato de torneo
   sp1: Se jugarán tres rondas de 18 hoyos. Los grupos saldrán desde el hoyo 1 a intervalos de tiempo regulares en horarios previamente programados. En caso de empate en el primer puesto, se jugará muerte súbita para decidir el ganador de cada categoría.
   st2: Premios y Trofeos
   sp2: Se otorgarán premios en efectivo en todas las categorías PRO. Se entregarán trofeos y otros premios a los ganadores de las categorías AM y otras competiciones (dobles, CTPS, etc.).
 course:
-  title: campo del Campeonato
+  title: Campo del Campeonato
   download: Descargar Caddy Book
   videos: Ver videos de sobrevuelos
 register:
   title: Registro
   p1: La inscripción y el pago de la cuota deben realizarse en <a target="_blank" href="https://www.discgolfscene.com/tournaments/II_Open_Xacobeo_2022/register">DiscGolfScene</a>.
   st1: Requisitos de registro
-  sp1: como tornament de nivel B, es obligatorio ser miembro de PDGA con buena reputación.
+  sp1: Al tratarse de un torneo de nivel B, es obligatorio ser miembro de PDGA en la actualidad.
   st2: Tarifas de registro
   st3: Número máximo de participantes
-  sp3: 120 participantes máximo. La organización se reserva 12 comodines. Una vez superadas las 108 inscripciones, se creará una lista de espera con posteriores solicitudes.
+  sp3: 120 participantes máximo. La organización se reserva 12 comodines. Una vez superadas las 108 inscripciones, se creará una lista de espera para posteriores solicitudes.
 contact:
   title: Contacto
-  p1: Para ponerse en contacto con la organización del torneo, envíe un correo electrónico a <a href="mailto:td@openxacobeo.com">td@openxacobeo.com</a> o utilice el siguiente formulario.
+  p1: Para ponerse en contacto con la organización del torneo, envía un correo electrónico a <a href="mailto:td@openxacobeo.com">td@openxacobeo.com</a> o utiliza el siguiente formulario.
   name: Tu nombre
-  email: correo electrónico
+  email: Correo electrónico
   message: Mensaje
   submit: Enviar
-  thanks: ¡Gracias por contactarnos! Nos pondremos en contacto con usted lo antes posible.
+  thanks: ¡Gracias por contactarnos! Nos pondremos en contacto contigo lo antes posible.
   goback: Volver al sitio principal
