@@ -131,10 +131,6 @@ a:focus {
   padding-right:0;
 }
 
-.top-nav-collapse .navbar-brand{
-  padding:6px;
-}
-
 .dropdown-menu.custom-dropdown{
   background:#333;
   color:#fff;
@@ -148,6 +144,27 @@ a:focus {
   .navbar-brand{
     padding:8px 0 3px 10px;
   }
+
+  .navbar-custom {
+      background-color: transparent;
+      transition: background 200ms linear;
+  }
+
+  .navbar-custom.top-nav-collapse, .navbar-custom.navbar-opened {
+      background-color: rgba(0, 0, 0, 0.85);
+  }
+
+  .navbar-custom {
+      border-bottom: 1px solid rgba(255,255,255,0);
+  }
+
+  .navbar-custom.top-nav-collapse {
+      border-bottom: 1px solid rgba(255,255,255,.3);
+  }
+}
+
+.navbar-fixed-bottom .navbar-collapse, .navbar-fixed-top .navbar-collapse{
+  max-height:420px;
 }
 
 @media(min-width:767px) {

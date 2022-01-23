@@ -74,6 +74,23 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
+function checkNavbarCollapsedOpened(){
+  if($(".navbar-main-collapse").hasClass("in")||$(".navbar-main-collapse").hasClass("collapsing")){
+    $(".navbar-fixed-top").addClass("navbar-opened");
+  }
+  else{
+    $(".navbar-fixed-top").removeClass("navbar-opened");
+  }
+}
+
+$(".navbar-toggle").click(function(){
+  window.setTimeout(checkNavbarCollapsedOpened, 10);
+  window.setTimeout(checkNavbarCollapsedOpened, 30);
+  window.setTimeout(checkNavbarCollapsedOpened, 60);
+  window.setTimeout(checkNavbarCollapsedOpened, 200);
+  window.setTimeout(checkNavbarCollapsedOpened, 400);
+});
+
 // remove the focused state after click,
 // otherwise bootstrap will still highlight the link
 $("a").mouseup(function(){
