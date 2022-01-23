@@ -1,0 +1,51 @@
+ <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <img src="/img/logo_dark.svg" alt="II Open Xacobeo" />
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">{% t navigation.about %}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#competition">{% t navigation.competition %}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#course">{% t navigation.course %}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#register">{% t navigation.register %}</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">{% t navigation.contact %}</a>
+                    </li>
+                    <li class="hidden-xs">
+                      <a class="dropdown-toggle language-selector" href="#lang" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><img src="/img/lang_{{ site.lang }}.png" alt="{{ site.lang }}" /></a>
+                      <ul class="dropdown-menu custom-dropdown">
+                        <li><a href="/en/"><img src="/img/lang_en.png" alt="en" /> English</a></li>
+                        <li><a href="/es/"><img src="/img/lang_es.png" alt="es" /> Español</a></li>
+                        <li><a href="/gl/"><img src="/img/lang_gl.png" alt="gl" /> Galego</a></li>
+                      </ul>
+                    </li>
+                    <li class="hidden-sm hidden-md hidden-lg"><a href="/en/"><img src="/img/lang_en.png" alt="en" /> English</a></li>
+                    <li class="hidden-sm hidden-md hidden-lg"><a href="/es/"><img src="/img/lang_es.png" alt="es" /> Español</a></li>
+                    <li class="hidden-sm hidden-md hidden-lg"><a href="/gl/"><img src="/img/lang_gl.png" alt="gl" /> Galego</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>

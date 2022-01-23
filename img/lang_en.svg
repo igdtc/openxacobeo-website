@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="22"
+   viewBox="0 0 8.4666664 5.8208335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="lang_en.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="12px"
+     inkscape:zoom="7.2466938"
+     inkscape:cx="14.144381"
+     inkscape:cy="-15.248333"
+     inkscape:window-width="2413"
+     inkscape:window-height="1358"
+     inkscape:window-x="57"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask2100">
+      <rect
+         style="fill:#ffffff;stroke-width:1.25103;paint-order:stroke markers fill;stop-color:#000000"
+         id="rect2102"
+         width="41.760292"
+         height="27.914722"
+         x="9.0502014"
+         y="1.2682014"
+         ry="4.9934106" />
+    </mask>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       clip-path="url(#s)"
+       id="g1805"
+       transform="matrix(0.17140524,0,0,0.20677308,-0.90218948,-0.25805557)"
+       mask="url(#mask2100)">
+      <path
+         d="M 0,0 V 30 H 60 V 0 Z"
+         fill="#012169"
+         id="path1795" />
+      <path
+         d="M 0,0 60,30 M 60,0 0,30"
+         stroke="#ffffff"
+         stroke-width="6"
+         id="path1797" />
+      <path
+         d="M 0,0 60,30 M 60,0 0,30"
+         clip-path="url(#t)"
+         stroke="#c8102e"
+         stroke-width="4"
+         id="path1799" />
+      <path
+         d="M 30,0 V 30 M 0,15 h 60"
+         stroke="#ffffff"
+         stroke-width="10"
+         id="path1801" />
+      <path
+         d="M 30,0 V 30 M 0,15 h 60"
+         stroke="#c8102e"
+         stroke-width="6"
+         id="path1803" />
+    </g>
+  </g>
+</svg>

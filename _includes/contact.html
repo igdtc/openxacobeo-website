@@ -1,0 +1,41 @@
+    <!-- Contact Section -->
+    <section id="contact" class="content-section text-center">
+      <div class="contact-section">
+        <div class="container">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>{% t contact.title %}</h2>
+                <p>{% t contact.p1 %}</p>
+
+                <form role="form" method="post" id="contactform" class="text-left" action="https://formsubmit.co/b1f25a118623202d261502de341289ff">
+                    <div class="row">
+                        <div class="col-sm-6 form-group">
+                            <label for="name">
+                                {% t contact.name %}:</label>
+                            <input type="text" class="form-control" id="name" name="name" required>
+                        </div>
+                        <div class="col-sm-6 form-group">
+                            <label for="email">
+                                {% t contact.email %}:</label>
+                            <input type="email" class="form-control" id="email" name="email" required>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 form-group">
+                            <label for="message">
+                                {% t contact.message %}:</label>
+                            <textarea class="form-control" type="textarea" id="message" name="message" maxlength="6000" rows="7"></textarea>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 form-group">
+                            <button type="submit" class="btn btn-lg btn-default pull-right" >{% t contact.submit %} →</button>
+                        </div>
+                    </div>
+
+                    <input type="hidden" name="_next" value="https://www.openxacobeo.com/thanks/">
+
+                </form>
+            </div>
+        </div>
+      </div>
+    </section>
